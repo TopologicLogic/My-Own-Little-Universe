@@ -1,4 +1,4 @@
-Here will sit some Wolfram Models/Hypergraphs using Wolfram Script/Mathmematica and SetReplace.  They may or may not represent the actual Universe.  :)  
+Here will sit some Wolfram Models/Hypergraphs using Wolfram Script/Mathematica and SetReplace.  They may or may not represent the actual Universe.  :)  
 
 Underlying theory:
 https://www.wolframphysics.org/
