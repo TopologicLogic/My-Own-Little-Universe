@@ -15,5 +15,9 @@ https://writings.stephenwolfram.com/2021/04/why-does-the-universe-exist-some-per
 
 https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/
 
+And, even more interesting realizations... We might exist on a folation in a much higher dimensional Universe, mediated/cannonized down to roughly 3D by the particles of which we're comprised.
+
+https://youtu.be/5qaY63SSrQE
+
 ![Hello World](https://github.com/TopologicLogic/My-Own-Little-Universe/raw/master/Hello%20World.png)
-![](https://2no.co/1n6Fy7.jpeg)
+
