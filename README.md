@@ -18,6 +18,15 @@ https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/
 And, even more interesting realizations... We might exist on a foliation in a much higher dimensional Universe (Rulial space), mediated/canonized down to roughly 3D by the particles of which we're comprised and/or maybe just computational boundedness.
 
 https://youtu.be/5qaY63SSrQE
+https://youtu.be/oVBnIuZemn0
+
+In so many words, what we perceive as time dilation in Special Relativity (which has to do with computational boundedness in Wolfram Models) might also be why we only perceive a limited/cannonized rule-set in a Rulial Space, effectively averaging three dimensions.  Time dilation ~ rule canonization.
+
+Similar to working with game abstractions in poker, one has to reduce the game size in order to fit it into available resources and time constraints, usually done via some kind of manual canonization or "bucketing" of cards and/or game trees into strategically similar groups using various statistical methods.  
+
+The Universe (or just math itself) is doing this naturally, as an intrinsic result of being in a reference frame in Rulial Space.  I'm not sure if they've figured out the equations to this yet, but it seems likely it would be an analog of SR/GR, as was the case with the Feynman Path Integral in Branchial Space.
+
+Further, our particles may be the perceived "quanta" of that canonization and/or some other process of math acting on itself.  Certain properties of the Standard Model may be universal, beyond gauge invariance.  In the same sense that SR/GR exist fundamentally everywhere in Rulial Space due to causal invariance, so might the structure of particles.  In the same breath that Wolfram asked: "Why these rules and not others?"  I'm wondering: "why these particles and not others?"
 
 ![Hello World](https://github.com/TopologicLogic/My-Own-Little-Universe/raw/master/Hello%20World.png)
 
