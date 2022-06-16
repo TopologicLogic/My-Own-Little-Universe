@@ -18,6 +18,7 @@ https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/
 And, even more interesting realizations... We might exist on a foliation in a much higher dimensional Universe (Rulial space), mediated/canonized down to roughly 3D by the particles of which we're comprised and/or maybe just computational boundedness.
 
 https://youtu.be/5qaY63SSrQE
+
 https://youtu.be/oVBnIuZemn0
 
 In so many words, what we perceive as time dilation in Special Relativity (which has to do with computational boundedness in Wolfram Models) might also be why we only perceive a limited/cannonized rule-set in a Rulial Space, effectively averaging three dimensions.  Time dilation ~ rule canonization.
