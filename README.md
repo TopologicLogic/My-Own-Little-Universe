@@ -21,7 +21,7 @@ https://youtu.be/5qaY63SSrQE
 
 https://youtu.be/oVBnIuZemn0
 
-In so many words, what we perceive as time dilation in Special Relativity (which has to do with computational boundedness in Wolfram Models) might also be why we only perceive a limited/cannonized rule-set in a Rulial Space, effectively averaging three dimensions.  Time dilation ~ rule canonization.
+In so many words, what we perceive as time dilation in Special Relativity (which has to do with computational boundedness in Wolfram Models) might also be why we only perceive a limited/canonized rule-set in a Rulial Space, effectively averaging three dimensions.  Time dilation ~ rule canonization.
 
 Similar to working with game abstractions in poker, one has to reduce the game size in order to fit it into available resources and time constraints, usually done via some kind of manual canonization or "bucketing" of cards and/or game trees into strategically similar groups using various statistical methods.  
 
