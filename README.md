@@ -33,5 +33,9 @@ https://youtu.be/_E2iiuunK-E
 
 Do we experience/perceive things a certain way (e.g 3D) because we're comprised of certain particles (which don't interact strongly with what would be a plethora of other particles in Rulial space), or do our particles exist this way because of a reference frame in Rulial space, or some intersection of the two, or something else?
 
+It might all just be a story of boundedness, and math doing math.
+
+Further abstract thoughts: The act of commuting/computing is "observing."  The question of data versus code is a question of stationairy versus computation.  
+
 ![Hello World](https://github.com/TopologicLogic/My-Own-Little-Universe/raw/master/Hello%20World.png)
 
