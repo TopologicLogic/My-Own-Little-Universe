@@ -29,7 +29,9 @@ The Universe (or just math itself) is doing this naturally, as an intrinsic resu
 
 Further, our particles may be the perceived "quanta" of that canonization and/or some other process of math acting on itself.  Certain properties of the Standard Model may be universal, beyond gauge invariance.  In the same sense that SR/GR exist fundamentally everywhere in Rulial Space due to causal invariance and computational boundedness, so might the structure of particles.  In the same breath that Wolfram asked: "Why these rules and not others?"  I'm wondering: "why these particles and not others?"
 
-Do we experience/perceive things a certain way (e.g 3D) because we're comprised of certain particles (which don't interact strongly with what would be a plethora of other particles in Rulial space), or do our particles exist this way because of a reference frame in Rulial space, or some intersection of the two?
+https://youtu.be/_E2iiuunK-E
+
+Do we experience/perceive things a certain way (e.g 3D) because we're comprised of certain particles (which don't interact strongly with what would be a plethora of other particles in Rulial space), or do our particles exist this way because of a reference frame in Rulial space, or some intersection of the two, or something else?
 
 ![Hello World](https://github.com/TopologicLogic/My-Own-Little-Universe/raw/master/Hello%20World.png)
 
