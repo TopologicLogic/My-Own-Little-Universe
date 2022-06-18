@@ -27,7 +27,7 @@ Similar to working with game abstractions in poker, one has to reduce the game s
 
 The Universe (or just math itself) is doing this naturally, as an intrinsic result of being in a reference frame in Rulial Space.  I'm not sure if they've figured out the equations to this yet, but it seems likely it would be an analog of SR/GR, as was the case with the Feynman Path Integral in Branchial Space.
 
-Further, our particles may be the perceived "quanta" of that canonization and/or some other process of math acting on itself.  Certain properties of the Standard Model may be universal, beyond gauge invariance.  In the same sense that SR/GR exist fundamentally everywhere in Rulial Space due to causal invariance, so might the structure of particles.  In the same breath that Wolfram asked: "Why these rules and not others?"  I'm wondering: "why these particles and not others?"
+Further, our particles may be the perceived "quanta" of that canonization and/or some other process of math acting on itself.  Certain properties of the Standard Model may be universal, beyond gauge invariance.  In the same sense that SR/GR exist fundamentally everywhere in Rulial Space due to causal invariance and computational boundedness, so might the structure of particles.  In the same breath that Wolfram asked: "Why these rules and not others?"  I'm wondering: "why these particles and not others?"
 
 Do we experience/perceive things a certain way (e.g 3D) because we're comprised of certain particles (which don't interact strongly with what would be a plethora of other particles in Rulial space), or do our particles exist this way because of a reference frame in Rulial space, or some intersection of the two?
 
