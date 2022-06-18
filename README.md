@@ -35,7 +35,7 @@ Do we experience/perceive things a certain way (e.g 3D) because we're comprised 
 
 It might all just be a story of boundedness, and math doing math.
 
-Further abstract thoughts: The act of commuting/computing is "observing."  The question of data versus code is a question of stationairy versus computation.  
+Further abstract thoughts: The act of commuting/computing is "observing."  The question of data versus code is a question of stationary versus computation.  
 
 ![Hello World](https://github.com/TopologicLogic/My-Own-Little-Universe/raw/master/Hello%20World.png)
 
