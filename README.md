@@ -39,3 +39,10 @@ Further abstract thoughts: The act of commuting/computing is "observing."  The q
 
 ![Hello World](https://github.com/TopologicLogic/My-Own-Little-Universe/raw/master/Hello%20World.png)
 
+Evolution might not have started with cells:
+
+https://writings.stephenwolfram.com/2024/12/foundations-of-biological-evolution-more-results-more-surprises/
+
+... 'leading to a limiting “equilibrium” probability distribution.'  
+
+It might be the particles in the Standard Model were the dominant genomes, at least in our reference frame in the Ruliad.
